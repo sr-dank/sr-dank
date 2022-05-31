@@ -1,0 +1,5 @@
+- # sobre mim
+- 👋 ola meu  nome e  @sr-dank
+- :+1:meu email de contato e marcos.viniciusdossantosde.morais@escola.pr.gov.br
+- 👀 eu estou enteressado em a prender a progamar novas linguagens ...
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de javaScript e Scratch
